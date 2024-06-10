@@ -1,0 +1,14 @@
+C:\Users\Vinvi\vsproj\web_dev_chev\NET\tutorialConsole\bin\Debug\net8.0\tutorialConsole.exe
+C:\Users\Vinvi\vsproj\web_dev_chev\NET\tutorialConsole\bin\Debug\net8.0\tutorialConsole.deps.json
+C:\Users\Vinvi\vsproj\web_dev_chev\NET\tutorialConsole\bin\Debug\net8.0\tutorialConsole.runtimeconfig.json
+C:\Users\Vinvi\vsproj\web_dev_chev\NET\tutorialConsole\bin\Debug\net8.0\tutorialConsole.dll
+C:\Users\Vinvi\vsproj\web_dev_chev\NET\tutorialConsole\bin\Debug\net8.0\tutorialConsole.pdb
+C:\Users\Vinvi\vsproj\web_dev_chev\NET\tutorialConsole\obj\Debug\net8.0\tutorialConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinvi\vsproj\web_dev_chev\NET\tutorialConsole\obj\Debug\net8.0\tutorialConsole.AssemblyInfoInputs.cache
+C:\Users\Vinvi\vsproj\web_dev_chev\NET\tutorialConsole\obj\Debug\net8.0\tutorialConsole.AssemblyInfo.cs
+C:\Users\Vinvi\vsproj\web_dev_chev\NET\tutorialConsole\obj\Debug\net8.0\tutorialConsole.csproj.CoreCompileInputs.cache
+C:\Users\Vinvi\vsproj\web_dev_chev\NET\tutorialConsole\obj\Debug\net8.0\tutorialConsole.dll
+C:\Users\Vinvi\vsproj\web_dev_chev\NET\tutorialConsole\obj\Debug\net8.0\refint\tutorialConsole.dll
+C:\Users\Vinvi\vsproj\web_dev_chev\NET\tutorialConsole\obj\Debug\net8.0\tutorialConsole.pdb
+C:\Users\Vinvi\vsproj\web_dev_chev\NET\tutorialConsole\obj\Debug\net8.0\tutorialConsole.genruntimeconfig.cache
+C:\Users\Vinvi\vsproj\web_dev_chev\NET\tutorialConsole\obj\Debug\net8.0\ref\tutorialConsole.dll
